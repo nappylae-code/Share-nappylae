@@ -2,7 +2,7 @@
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 
 "sites":[
-{"key":"1080资源","name":"1080资源","type":1,"api":"http://api.1080zyku.com/inc/api_mac10.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":[]},
+{"key":"1080资源","name":"1080资源","type":1,"api":"https://api.yyzy-tv.vip/inc/api_mac10.php","playUrl":"","searchable":1,"quickSearch":1,"categories":[]},
 {"key":"iKun资源","name":"iKun资源","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod/at/json","playUrl":"","searchable":1,"quickSearch":1,"categories":[]},
 {"key":"如意资源","name":"如意资源","type":1,"api":"https://cj.rycjapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":[]},
 {"key":"无尽资源","name":"无尽资源","type":1,"api":"https://wuzy9.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":[]},
