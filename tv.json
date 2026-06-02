@@ -5,6 +5,7 @@
 "sites":[
 {"key":"U酷资源","name":"U酷资源","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/?ac=list","playUrl":"","searchable":1,"quickSearch":1,"categories":[]},
 {"key":"无尽资源","name":"无尽资源","type":1,"api":"https://wuzy9.com/api.php/provide/vod/","playUrl":"https://jx.xhswglobal.com/dplayer/?url=","searchable":1,"quickSearch":1,"categories":[]},
+{"key":"1080资源","name":"1080资源","type":1,"api":"http://api.1080zyku.com/inc/api_mac10.php","playUrl":"https://vip.zyukbf.com/?url=","searchable":1,"quickSearch":1,"categories":[]},
 {"key":"灯塔资源","name":"灯塔资源","type":1,"api":"http://vip.hwh.ink/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":[]}
 ],
 "lives":[
