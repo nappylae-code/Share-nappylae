@@ -9,13 +9,15 @@
 {"key":"最大资源","name":"最大资源","type":1,"api":"https://api.zuidapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":[]},
 {"key":"量子资源","name":"量子资源","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":[]},
 {"key":"金鹰资源","name":"金鹰资源","type":1,"api":"https://jyzyapi.com/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":[]},
-{"key":"魔都资源","name":"魔都资源","type":1,"api":"https://www.mdzyapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":[]}
+{"key":"魔都资源","name":"魔都资源","type":1,"api":"https://www.mdzyapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":[]},
+{"key": "金牌影视","name": "金牌影视","type": 3,"api": "csp_Jpys","ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"},
+{"key": "金牌","name": "金牌｜APP","type": 3,"api": "csp_AppQi","searchable": 1,"changeable": 1,"ext": {"url": "https://qj4.catbb.xyz","dataKey": "eecbio48dsq13kkk","dataIv": "eecbio48dsq13kkk","search": "searchList4","init": "initV122","ua": "okhttp/3.10.0"}}
 ],
 
-"lives":[
-{"group":"redirect","channels":[
-{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL1l1YW5Ic2luZy9PbmVDbGlja1J1bkBtYXN0ZXIveHBhdGgvbGl2ZS50eHQ="]}
-]}
+"lives": [
+{"name": "migu","type": 0,"url": "https://develop202.github.io/migu_video/interface.txt","playerType": 1,"ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}","logo": "https://logo.wyfc.qzz.io/{name}.png"},
+{"name": "live","type": 0,"url": "https://epg.pw/test_channels.m3u","playerType": 1,"ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}","logo": "https://logo.wyfc.qzz.io/{name}.png"},
+{"name": "ipv6","type": 0,"url": "./tvboxtv.txt","playerType": 1,"ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}","logo": "https://logo.wyfc.qzz.io/{name}.png"}
 ],
 
 "parses":[
